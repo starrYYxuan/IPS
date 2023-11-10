@@ -1,5 +1,6 @@
-# IPS
+# IPS: Fine-grained Conversational Decoding via Isotropic and Proximal Search
 This is the code of EMNLP 2023 Main Conference Paper: "Fine-grained Conversational Decoding via Isotropic and Proximal Search" 
+
 [paper](https://arxiv.org/abs/2310.08130)
 ***
 ##  Introduction
@@ -11,6 +12,7 @@ IPS can be directly used with different models and achieve good performance, whi
 For experiment settings, We follow [SimDRC](https://github.com/hahahawu/SimDRC).
 ***
 ## Citation
+```
 @misc{yao2023finegrained,
       title={Fine-grained Conversational Decoding via Isotropic and Proximal Search}, 
       author={Yuxuan Yao and Han Wu and Qiling Xu and Linqi Song},
@@ -19,6 +21,7 @@ For experiment settings, We follow [SimDRC](https://github.com/hahahawu/SimDRC).
       archivePrefix={arXiv},
       primaryClass={cs.CL}
 }
+```
 
 
 
